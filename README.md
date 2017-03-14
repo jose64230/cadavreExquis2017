@@ -4,4 +4,4 @@ Ce projet est un projet de **démonstration** à titre éducatif dans le cadre d
 
 ## Présentation du jeu
 ### principe
-Principe du jeu à définirCréa
+Principe du jeu à définir
