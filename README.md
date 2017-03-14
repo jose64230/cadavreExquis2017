@@ -5,3 +5,6 @@ Ce projet est un projet de **démonstration** à titre éducatif dans le cadre d
 ## Présentation du jeu
 ### principe
 Principe du jeu à définir
+
+### Participants
+Tous les membres de la formation.
