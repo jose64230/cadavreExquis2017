@@ -8,3 +8,6 @@ Principe du jeu à définir
 
 ### Participants
 Tous les membres de la formation.
+
+## Auteur
+c'est moi josé
